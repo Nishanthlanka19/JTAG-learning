@@ -1,0 +1,20 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/z004zyde/Desktop/JTAG_learning/JTAG_learning.ip_user_files/bd/design_1/ip/design_1_jtag_axi_0_0/sim/design_1_jtag_axi_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_jtag_axi_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/z004zyde/Desktop/JTAG_learning/JTAG_learning.ip_user_files/bd/design_1/ip/design_1_clk_wiz_0/design_1_clk_wiz_0_clk_wiz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_clk_wiz_0_clk_wiz
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/z004zyde/Desktop/JTAG_learning/JTAG_learning.ip_user_files/bd/design_1/ip/design_1_clk_wiz_0/design_1_clk_wiz_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_clk_wiz_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/z004zyde/Desktop/JTAG_learning/JTAG_learning.ip_user_files/bd/design_1/ip/design_1_auto_pc_0/sim/design_1_auto_pc_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/z004zyde/Desktop/JTAG_learning/JTAG_learning.ip_user_files/bd/design_1/sim/design_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1
+INFO: [VRFC 10-311] analyzing module design_1_jtag_axi_0_axi_periph_0
+INFO: [VRFC 10-311] analyzing module s00_couplers_imp_1UACJD2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/z004zyde/Desktop/JTAG_learning/JTAG_learning.gen/sources_1/bd/design_1/hdl/design_1_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_wrapper
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/z004zyde/Desktop/JTAG_learning/JTAG_learning.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/z004zyde/Desktop/JTAG_learning/JTAG_learning.ip_user_files/bd/design_1/ip/design_1_axi_gpio_0_0/sim/design_1_axi_gpio_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'design_1_axi_gpio_0_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/z004zyde/Desktop/JTAG_learning/JTAG_learning.ip_user_files/bd/design_1/ip/design_1_rst_clk_wiz_100M_0/sim/design_1_rst_clk_wiz_100M_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'design_1_rst_clk_wiz_100M_0'
